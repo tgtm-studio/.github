@@ -6,6 +6,5 @@
 </p>
 
 <p align="center">
-  An independent studio making games.<br>
-  Currently building <strong>Spinout</strong>, an indoor cycling game.
+  An independent studio.<br>
 </p>
